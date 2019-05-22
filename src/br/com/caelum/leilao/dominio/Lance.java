@@ -17,7 +17,4 @@ public class Lance {
 	public double getValor() {
 		return valor;
 	}
-	
-	
-	
 }
